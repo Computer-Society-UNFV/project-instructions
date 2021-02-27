@@ -14,7 +14,7 @@
   <summary>Listado de proyectos web</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Front end</a>
+      <a href="#">Front end</a>
       <ul>
         <li><a href="https://github.com/Computer-Society-UNFV/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md">Weather App</a></li>
         <li><a href="https://github.com/Computer-Society-UNFV/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md">Notes App</a></li>
@@ -23,7 +23,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Back end</a>
+      <a href="#">Back end</a>
       <ul>
         <li><a href="https://github.com/Computer-Society-UNFV/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md">Password Generator</a></li>
         <li><a href="https://github.com/Computer-Society-UNFV/app-ideas/blob/master/Projects/2-Intermediate/QRCode-Badge-App.md">QRCode Badge Generator</a></li>
